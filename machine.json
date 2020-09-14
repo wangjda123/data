@@ -1,0 +1,1402 @@
+[
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "#1电容器",
+    "hezhaCurrent": 3.75,
+    "fenzhaCurrent": 2.18,
+    "chunengCurrent": 4.09
+  },
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "海凤3731",
+    "hezhaCurrent": 4.07,
+    "fenzhaCurrent": 3.87,
+    "chunengCurrent": 0.49
+  },
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "#3电容器",
+    "hezhaCurrent": 3.78,
+    "fenzhaCurrent": 0.35,
+    "chunengCurrent": 4.81
+  },
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "#1所用变",
+    "hezhaCurrent": 1.24,
+    "fenzhaCurrent": 0.15,
+    "chunengCurrent": 4.74
+  },
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "35kVI段母线避雷器",
+    "hezhaCurrent": 2.27,
+    "fenzhaCurrent": 2.31,
+    "chunengCurrent": 0.33
+  },
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "海洪3734",
+    "hezhaCurrent": 4.9,
+    "fenzhaCurrent": 3.49,
+    "chunengCurrent": 2.31
+  },
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "35kVI段母线压变插件",
+    "hezhaCurrent": 4.61,
+    "fenzhaCurrent": 1.09,
+    "chunengCurrent": 4.85
+  },
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "#1主变35kV",
+    "hezhaCurrent": 0.24,
+    "fenzhaCurrent": 3.95,
+    "chunengCurrent": 2.14
+  },
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "海变3733",
+    "hezhaCurrent": 4.05,
+    "fenzhaCurrent": 1.62,
+    "chunengCurrent": 0.23
+  },
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "35kV母分开关",
+    "hezhaCurrent": 3.08,
+    "fenzhaCurrent": 1.3,
+    "chunengCurrent": 2.64
+  },
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "35kV母分插件",
+    "hezhaCurrent": 3.05,
+    "fenzhaCurrent": 4.04,
+    "chunengCurrent": 1.87
+  },
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "备用3572开关",
+    "hezhaCurrent": 2.01,
+    "fenzhaCurrent": 0.01,
+    "chunengCurrent": 4.09
+  },
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "#2主变35kV开关",
+    "hezhaCurrent": 2.91,
+    "fenzhaCurrent": 1.47,
+    "chunengCurrent": 4.98
+  },
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "35kVII段母线避雷器",
+    "hezhaCurrent": 0.01,
+    "fenzhaCurrent": 3.39,
+    "chunengCurrent": 4.92
+  },
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "海牌3735开关",
+    "hezhaCurrent": 3.68,
+    "fenzhaCurrent": 4.36,
+    "chunengCurrent": 0.01
+  },
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "35kVII段母线压变插件",
+    "hezhaCurrent": 3.91,
+    "fenzhaCurrent": 3.03,
+    "chunengCurrent": 3.3
+  },
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "#2电容器开关",
+    "hezhaCurrent": 1.96,
+    "fenzhaCurrent": 2.52,
+    "chunengCurrent": 0.93
+  },
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "#2所用变开关",
+    "hezhaCurrent": 3.11,
+    "fenzhaCurrent": 1.02,
+    "chunengCurrent": 0.87
+  },
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "#2电抗器开关",
+    "hezhaCurrent": 1.13,
+    "fenzhaCurrent": 4.65,
+    "chunengCurrent": 3.37
+  },
+  {
+    "time": "2020-07-10T06:00:00.000Z",
+    "name": "海时3738开关",
+    "hezhaCurrent": 4.19,
+    "fenzhaCurrent": 0.69,
+    "chunengCurrent": 0.22
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "#1电容器",
+    "hezhaCurrent": 0.81,
+    "fenzhaCurrent": 4.63,
+    "chunengCurrent": 4.61
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "海凤3731",
+    "hezhaCurrent": 1.42,
+    "fenzhaCurrent": 3.39,
+    "chunengCurrent": 4.33
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "#3电容器",
+    "hezhaCurrent": 1.24,
+    "fenzhaCurrent": 3.96,
+    "chunengCurrent": 4.44
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "#1所用变",
+    "hezhaCurrent": 2.65,
+    "fenzhaCurrent": 1.44,
+    "chunengCurrent": 1.42
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "35kVI段母线避雷器",
+    "hezhaCurrent": 4.55,
+    "fenzhaCurrent": 2.45,
+    "chunengCurrent": 4.56
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "海洪3734",
+    "hezhaCurrent": 4.69,
+    "fenzhaCurrent": 0.51,
+    "chunengCurrent": 2.83
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "35kVI段母线压变插件",
+    "hezhaCurrent": 3.86,
+    "fenzhaCurrent": 4.96,
+    "chunengCurrent": 1.94
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "#1主变35kV",
+    "hezhaCurrent": 1.35,
+    "fenzhaCurrent": 2.52,
+    "chunengCurrent": 3.62
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "海变3733",
+    "hezhaCurrent": 4.54,
+    "fenzhaCurrent": 3.75,
+    "chunengCurrent": 2.85
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "35kV母分开关",
+    "hezhaCurrent": 2.29,
+    "fenzhaCurrent": 1.7,
+    "chunengCurrent": 1.94
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "35kV母分插件",
+    "hezhaCurrent": 2.23,
+    "fenzhaCurrent": 3.77,
+    "chunengCurrent": 1.26
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "备用3572开关",
+    "hezhaCurrent": 1.33,
+    "fenzhaCurrent": 1.74,
+    "chunengCurrent": 4.95
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "#2主变35kV开关",
+    "hezhaCurrent": 2.59,
+    "fenzhaCurrent": 3.17,
+    "chunengCurrent": 0.25
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "35kVII段母线避雷器",
+    "hezhaCurrent": 4.5,
+    "fenzhaCurrent": 4.28,
+    "chunengCurrent": 2.55
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "海牌3735开关",
+    "hezhaCurrent": 0.37,
+    "fenzhaCurrent": 1.62,
+    "chunengCurrent": 1.55
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "35kVII段母线压变插件",
+    "hezhaCurrent": 0.04,
+    "fenzhaCurrent": 2.73,
+    "chunengCurrent": 0.27
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "#2电容器开关",
+    "hezhaCurrent": 4.19,
+    "fenzhaCurrent": 1.02,
+    "chunengCurrent": 0.73
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "#2所用变开关",
+    "hezhaCurrent": 1.74,
+    "fenzhaCurrent": 4.18,
+    "chunengCurrent": 4.06
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "#2电抗器开关",
+    "hezhaCurrent": 4.98,
+    "fenzhaCurrent": 1.28,
+    "chunengCurrent": 4.02
+  },
+  {
+    "time": "2020-07-10T06:15:00.000Z",
+    "name": "海时3738开关",
+    "hezhaCurrent": 3.41,
+    "fenzhaCurrent": 3.21,
+    "chunengCurrent": 1.76
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "#1电容器",
+    "hezhaCurrent": 0.81,
+    "fenzhaCurrent": 4.33,
+    "chunengCurrent": 0.22
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "海凤3731",
+    "hezhaCurrent": 1.76,
+    "fenzhaCurrent": 2.12,
+    "chunengCurrent": 1.09
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "#3电容器",
+    "hezhaCurrent": 4.06,
+    "fenzhaCurrent": 1.41,
+    "chunengCurrent": 1.99
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "#1所用变",
+    "hezhaCurrent": 4.26,
+    "fenzhaCurrent": 2.35,
+    "chunengCurrent": 2.58
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "35kVI段母线避雷器",
+    "hezhaCurrent": 0.28,
+    "fenzhaCurrent": 4.49,
+    "chunengCurrent": 4.08
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "海洪3734",
+    "hezhaCurrent": 3.13,
+    "fenzhaCurrent": 0.83,
+    "chunengCurrent": 2.94
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "35kVI段母线压变插件",
+    "hezhaCurrent": 0,
+    "fenzhaCurrent": 1.36,
+    "chunengCurrent": 3.03
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "#1主变35kV",
+    "hezhaCurrent": 0,
+    "fenzhaCurrent": 0.6,
+    "chunengCurrent": 0.61
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "海变3733",
+    "hezhaCurrent": 2.24,
+    "fenzhaCurrent": 1.39,
+    "chunengCurrent": 1.28
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "35kV母分开关",
+    "hezhaCurrent": 3.67,
+    "fenzhaCurrent": 4.18,
+    "chunengCurrent": 3.79
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "35kV母分插件",
+    "hezhaCurrent": 4.7,
+    "fenzhaCurrent": 0.48,
+    "chunengCurrent": 4.29
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "备用3572开关",
+    "hezhaCurrent": 0.23,
+    "fenzhaCurrent": 4.69,
+    "chunengCurrent": 2.81
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "#2主变35kV开关",
+    "hezhaCurrent": 3.3,
+    "fenzhaCurrent": 4.88,
+    "chunengCurrent": 4.63
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "35kVII段母线避雷器",
+    "hezhaCurrent": 0.98,
+    "fenzhaCurrent": 1.77,
+    "chunengCurrent": 1.73
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "海牌3735开关",
+    "hezhaCurrent": 1.12,
+    "fenzhaCurrent": 0.64,
+    "chunengCurrent": 1.65
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "35kVII段母线压变插件",
+    "hezhaCurrent": 3.33,
+    "fenzhaCurrent": 0.15,
+    "chunengCurrent": 1.88
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "#2电容器开关",
+    "hezhaCurrent": 4.73,
+    "fenzhaCurrent": 1.56,
+    "chunengCurrent": 0.92
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "#2所用变开关",
+    "hezhaCurrent": 3.71,
+    "fenzhaCurrent": 4.29,
+    "chunengCurrent": 0.4
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "#2电抗器开关",
+    "hezhaCurrent": 1.62,
+    "fenzhaCurrent": 1.53,
+    "chunengCurrent": 3.71
+  },
+  {
+    "time": "2020-07-10T06:30:00.000Z",
+    "name": "海时3738开关",
+    "hezhaCurrent": 1.76,
+    "fenzhaCurrent": 0.16,
+    "chunengCurrent": 2.92
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "#1电容器",
+    "hezhaCurrent": 1.63,
+    "fenzhaCurrent": 3.02,
+    "chunengCurrent": 1.74
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "海凤3731",
+    "hezhaCurrent": 3.5,
+    "fenzhaCurrent": 2.15,
+    "chunengCurrent": 0.01
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "#3电容器",
+    "hezhaCurrent": 3.97,
+    "fenzhaCurrent": 4.57,
+    "chunengCurrent": 2.77
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "#1所用变",
+    "hezhaCurrent": 2.65,
+    "fenzhaCurrent": 3.26,
+    "chunengCurrent": 3.76
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "35kVI段母线避雷器",
+    "hezhaCurrent": 2.4,
+    "fenzhaCurrent": 3.71,
+    "chunengCurrent": 4.39
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "海洪3734",
+    "hezhaCurrent": 2.41,
+    "fenzhaCurrent": 2.67,
+    "chunengCurrent": 4.53
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "35kVI段母线压变插件",
+    "hezhaCurrent": 3.93,
+    "fenzhaCurrent": 2.12,
+    "chunengCurrent": 3.63
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "#1主变35kV",
+    "hezhaCurrent": 0.09,
+    "fenzhaCurrent": 1,
+    "chunengCurrent": 3.84
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "海变3733",
+    "hezhaCurrent": 0.73,
+    "fenzhaCurrent": 1.45,
+    "chunengCurrent": 0.26
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "35kV母分开关",
+    "hezhaCurrent": 4.57,
+    "fenzhaCurrent": 3.53,
+    "chunengCurrent": 0.48
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "35kV母分插件",
+    "hezhaCurrent": 0.03,
+    "fenzhaCurrent": 3.95,
+    "chunengCurrent": 1.56
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "备用3572开关",
+    "hezhaCurrent": 3.93,
+    "fenzhaCurrent": 1.13,
+    "chunengCurrent": 4.87
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "#2主变35kV开关",
+    "hezhaCurrent": 4.3,
+    "fenzhaCurrent": 0.6,
+    "chunengCurrent": 4.84
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "35kVII段母线避雷器",
+    "hezhaCurrent": 0.51,
+    "fenzhaCurrent": 4.45,
+    "chunengCurrent": 3.45
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "海牌3735开关",
+    "hezhaCurrent": 3.6,
+    "fenzhaCurrent": 4.91,
+    "chunengCurrent": 1.32
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "35kVII段母线压变插件",
+    "hezhaCurrent": 0.65,
+    "fenzhaCurrent": 2.33,
+    "chunengCurrent": 4.17
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "#2电容器开关",
+    "hezhaCurrent": 3.4,
+    "fenzhaCurrent": 1.98,
+    "chunengCurrent": 1.91
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "#2所用变开关",
+    "hezhaCurrent": 3.27,
+    "fenzhaCurrent": 2.71,
+    "chunengCurrent": 1.19
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "#2电抗器开关",
+    "hezhaCurrent": 4.52,
+    "fenzhaCurrent": 2.36,
+    "chunengCurrent": 4.15
+  },
+  {
+    "time": "2020-07-10T06:45:00.000Z",
+    "name": "海时3738开关",
+    "hezhaCurrent": 4.51,
+    "fenzhaCurrent": 0.24,
+    "chunengCurrent": 3.06
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "#1电容器",
+    "hezhaCurrent": 3.93,
+    "fenzhaCurrent": 3.93,
+    "chunengCurrent": 0.62
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "海凤3731",
+    "hezhaCurrent": 1.46,
+    "fenzhaCurrent": 1.8,
+    "chunengCurrent": 4.44
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "#3电容器",
+    "hezhaCurrent": 4.07,
+    "fenzhaCurrent": 2.3,
+    "chunengCurrent": 3.04
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "#1所用变",
+    "hezhaCurrent": 4,
+    "fenzhaCurrent": 4.11,
+    "chunengCurrent": 0.65
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "35kVI段母线避雷器",
+    "hezhaCurrent": 2.41,
+    "fenzhaCurrent": 0.76,
+    "chunengCurrent": 4.21
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "海洪3734",
+    "hezhaCurrent": 3.43,
+    "fenzhaCurrent": 3.84,
+    "chunengCurrent": 2.34
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "35kVI段母线压变插件",
+    "hezhaCurrent": 1.71,
+    "fenzhaCurrent": 1.87,
+    "chunengCurrent": 2.4
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "#1主变35kV",
+    "hezhaCurrent": 2.59,
+    "fenzhaCurrent": 1.64,
+    "chunengCurrent": 0.74
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "海变3733",
+    "hezhaCurrent": 1.59,
+    "fenzhaCurrent": 2.82,
+    "chunengCurrent": 2.08
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "35kV母分开关",
+    "hezhaCurrent": 2.59,
+    "fenzhaCurrent": 4.63,
+    "chunengCurrent": 4.03
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "35kV母分插件",
+    "hezhaCurrent": 3.73,
+    "fenzhaCurrent": 3.85,
+    "chunengCurrent": 2.35
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "备用3572开关",
+    "hezhaCurrent": 2.95,
+    "fenzhaCurrent": 0.87,
+    "chunengCurrent": 3.32
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "#2主变35kV开关",
+    "hezhaCurrent": 2.04,
+    "fenzhaCurrent": 3.18,
+    "chunengCurrent": 0.36
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "35kVII段母线避雷器",
+    "hezhaCurrent": 4.9,
+    "fenzhaCurrent": 5,
+    "chunengCurrent": 3.04
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "海牌3735开关",
+    "hezhaCurrent": 4.36,
+    "fenzhaCurrent": 1.01,
+    "chunengCurrent": 2.6
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "35kVII段母线压变插件",
+    "hezhaCurrent": 4.46,
+    "fenzhaCurrent": 2.05,
+    "chunengCurrent": 1.82
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "#2电容器开关",
+    "hezhaCurrent": 4.24,
+    "fenzhaCurrent": 0.92,
+    "chunengCurrent": 0.7
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "#2所用变开关",
+    "hezhaCurrent": 0.11,
+    "fenzhaCurrent": 1.1,
+    "chunengCurrent": 4.26
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "#2电抗器开关",
+    "hezhaCurrent": 2.05,
+    "fenzhaCurrent": 0.58,
+    "chunengCurrent": 3.08
+  },
+  {
+    "time": "2020-07-10T07:00:00.000Z",
+    "name": "海时3738开关",
+    "hezhaCurrent": 2.16,
+    "fenzhaCurrent": 1.3,
+    "chunengCurrent": 2.56
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "#1电容器",
+    "hezhaCurrent": 4.4,
+    "fenzhaCurrent": 1.31,
+    "chunengCurrent": 0.66
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "海凤3731",
+    "hezhaCurrent": 4.64,
+    "fenzhaCurrent": 0.01,
+    "chunengCurrent": 3.83
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "#3电容器",
+    "hezhaCurrent": 4.9,
+    "fenzhaCurrent": 2.77,
+    "chunengCurrent": 4.35
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "#1所用变",
+    "hezhaCurrent": 0.8,
+    "fenzhaCurrent": 4.21,
+    "chunengCurrent": 1.11
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "35kVI段母线避雷器",
+    "hezhaCurrent": 4.55,
+    "fenzhaCurrent": 3.05,
+    "chunengCurrent": 1.14
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "海洪3734",
+    "hezhaCurrent": 3.11,
+    "fenzhaCurrent": 2.45,
+    "chunengCurrent": 1.38
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "35kVI段母线压变插件",
+    "hezhaCurrent": 2.26,
+    "fenzhaCurrent": 2.99,
+    "chunengCurrent": 2.46
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "#1主变35kV",
+    "hezhaCurrent": 0.78,
+    "fenzhaCurrent": 2.86,
+    "chunengCurrent": 4.85
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "海变3733",
+    "hezhaCurrent": 0.89,
+    "fenzhaCurrent": 1.6,
+    "chunengCurrent": 2.86
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "35kV母分开关",
+    "hezhaCurrent": 0.14,
+    "fenzhaCurrent": 4.78,
+    "chunengCurrent": 0.88
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "35kV母分插件",
+    "hezhaCurrent": 3.75,
+    "fenzhaCurrent": 4.1,
+    "chunengCurrent": 0.1
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "备用3572开关",
+    "hezhaCurrent": 3.79,
+    "fenzhaCurrent": 1.35,
+    "chunengCurrent": 3.37
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "#2主变35kV开关",
+    "hezhaCurrent": 1.59,
+    "fenzhaCurrent": 0.75,
+    "chunengCurrent": 0.05
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "35kVII段母线避雷器",
+    "hezhaCurrent": 0.83,
+    "fenzhaCurrent": 2.96,
+    "chunengCurrent": 2.07
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "海牌3735开关",
+    "hezhaCurrent": 0.71,
+    "fenzhaCurrent": 4.26,
+    "chunengCurrent": 4.36
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "35kVII段母线压变插件",
+    "hezhaCurrent": 4.66,
+    "fenzhaCurrent": 2.5,
+    "chunengCurrent": 1.09
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "#2电容器开关",
+    "hezhaCurrent": 4.7,
+    "fenzhaCurrent": 3.73,
+    "chunengCurrent": 2.3
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "#2所用变开关",
+    "hezhaCurrent": 2.98,
+    "fenzhaCurrent": 0.99,
+    "chunengCurrent": 1.03
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "#2电抗器开关",
+    "hezhaCurrent": 1.94,
+    "fenzhaCurrent": 0.86,
+    "chunengCurrent": 0.75
+  },
+  {
+    "time": "2020-07-10T07:15:00.000Z",
+    "name": "海时3738开关",
+    "hezhaCurrent": 1.97,
+    "fenzhaCurrent": 0.95,
+    "chunengCurrent": 2.9
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "#1电容器",
+    "hezhaCurrent": 1.15,
+    "fenzhaCurrent": 1.8,
+    "chunengCurrent": 2.44
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "海凤3731",
+    "hezhaCurrent": 1.25,
+    "fenzhaCurrent": 0.16,
+    "chunengCurrent": 3.23
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "#3电容器",
+    "hezhaCurrent": 3.39,
+    "fenzhaCurrent": 2.36,
+    "chunengCurrent": 2.11
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "#1所用变",
+    "hezhaCurrent": 4.63,
+    "fenzhaCurrent": 2.09,
+    "chunengCurrent": 1.79
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "35kVI段母线避雷器",
+    "hezhaCurrent": 4.99,
+    "fenzhaCurrent": 4.95,
+    "chunengCurrent": 0.86
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "海洪3734",
+    "hezhaCurrent": 3.09,
+    "fenzhaCurrent": 2.83,
+    "chunengCurrent": 2.15
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "35kVI段母线压变插件",
+    "hezhaCurrent": 1.9,
+    "fenzhaCurrent": 4.06,
+    "chunengCurrent": 3.86
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "#1主变35kV",
+    "hezhaCurrent": 3.16,
+    "fenzhaCurrent": 1.42,
+    "chunengCurrent": 0.53
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "海变3733",
+    "hezhaCurrent": 2.77,
+    "fenzhaCurrent": 2.8,
+    "chunengCurrent": 0.85
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "35kV母分开关",
+    "hezhaCurrent": 0.02,
+    "fenzhaCurrent": 0.07,
+    "chunengCurrent": 0.1
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "35kV母分插件",
+    "hezhaCurrent": 4.74,
+    "fenzhaCurrent": 3.34,
+    "chunengCurrent": 3.66
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "备用3572开关",
+    "hezhaCurrent": 1.16,
+    "fenzhaCurrent": 2.81,
+    "chunengCurrent": 2.9
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "#2主变35kV开关",
+    "hezhaCurrent": 2.85,
+    "fenzhaCurrent": 4.73,
+    "chunengCurrent": 3.73
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "35kVII段母线避雷器",
+    "hezhaCurrent": 4.15,
+    "fenzhaCurrent": 4.65,
+    "chunengCurrent": 0.9
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "海牌3735开关",
+    "hezhaCurrent": 0.74,
+    "fenzhaCurrent": 0.01,
+    "chunengCurrent": 0.95
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "35kVII段母线压变插件",
+    "hezhaCurrent": 1.6,
+    "fenzhaCurrent": 0.57,
+    "chunengCurrent": 2.27
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "#2电容器开关",
+    "hezhaCurrent": 1.62,
+    "fenzhaCurrent": 4.28,
+    "chunengCurrent": 1.3
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "#2所用变开关",
+    "hezhaCurrent": 4.39,
+    "fenzhaCurrent": 1.35,
+    "chunengCurrent": 3.66
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "#2电抗器开关",
+    "hezhaCurrent": 0.09,
+    "fenzhaCurrent": 4.28,
+    "chunengCurrent": 3.56
+  },
+  {
+    "time": "2020-07-10T07:30:00.000Z",
+    "name": "海时3738开关",
+    "hezhaCurrent": 1.25,
+    "fenzhaCurrent": 3.99,
+    "chunengCurrent": 0.12
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "#1电容器",
+    "hezhaCurrent": 1.75,
+    "fenzhaCurrent": 4.94,
+    "chunengCurrent": 2.92
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "海凤3731",
+    "hezhaCurrent": 2.14,
+    "fenzhaCurrent": 2.8,
+    "chunengCurrent": 0.38
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "#3电容器",
+    "hezhaCurrent": 3.26,
+    "fenzhaCurrent": 1.14,
+    "chunengCurrent": 1.01
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "#1所用变",
+    "hezhaCurrent": 3.49,
+    "fenzhaCurrent": 4.87,
+    "chunengCurrent": 4.48
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "35kVI段母线避雷器",
+    "hezhaCurrent": 4.88,
+    "fenzhaCurrent": 3.94,
+    "chunengCurrent": 1.75
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "海洪3734",
+    "hezhaCurrent": 1.24,
+    "fenzhaCurrent": 4.64,
+    "chunengCurrent": 3.23
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "35kVI段母线压变插件",
+    "hezhaCurrent": 1.34,
+    "fenzhaCurrent": 0.2,
+    "chunengCurrent": 1.05
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "#1主变35kV",
+    "hezhaCurrent": 2.6,
+    "fenzhaCurrent": 1.9,
+    "chunengCurrent": 0.14
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "海变3733",
+    "hezhaCurrent": 0.02,
+    "fenzhaCurrent": 4.23,
+    "chunengCurrent": 1.29
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "35kV母分开关",
+    "hezhaCurrent": 4.38,
+    "fenzhaCurrent": 2.28,
+    "chunengCurrent": 0.36
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "35kV母分插件",
+    "hezhaCurrent": 2.61,
+    "fenzhaCurrent": 0.71,
+    "chunengCurrent": 1.35
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "备用3572开关",
+    "hezhaCurrent": 3.78,
+    "fenzhaCurrent": 2.95,
+    "chunengCurrent": 4.59
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "#2主变35kV开关",
+    "hezhaCurrent": 1.38,
+    "fenzhaCurrent": 1.42,
+    "chunengCurrent": 4.89
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "35kVII段母线避雷器",
+    "hezhaCurrent": 1.59,
+    "fenzhaCurrent": 1.51,
+    "chunengCurrent": 1.57
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "海牌3735开关",
+    "hezhaCurrent": 2.95,
+    "fenzhaCurrent": 2.26,
+    "chunengCurrent": 4.38
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "35kVII段母线压变插件",
+    "hezhaCurrent": 2.89,
+    "fenzhaCurrent": 2.54,
+    "chunengCurrent": 4.44
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "#2电容器开关",
+    "hezhaCurrent": 3.22,
+    "fenzhaCurrent": 2.05,
+    "chunengCurrent": 4.04
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "#2所用变开关",
+    "hezhaCurrent": 4.49,
+    "fenzhaCurrent": 0.54,
+    "chunengCurrent": 2.37
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "#2电抗器开关",
+    "hezhaCurrent": 4.97,
+    "fenzhaCurrent": 4.78,
+    "chunengCurrent": 1.59
+  },
+  {
+    "time": "2020-07-10T07:45:00.000Z",
+    "name": "海时3738开关",
+    "hezhaCurrent": 1.23,
+    "fenzhaCurrent": 0.04,
+    "chunengCurrent": 2.5
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "#1电容器",
+    "hezhaCurrent": 3.96,
+    "fenzhaCurrent": 0.44,
+    "chunengCurrent": 4.31
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "海凤3731",
+    "hezhaCurrent": 0.43,
+    "fenzhaCurrent": 2.83,
+    "chunengCurrent": 4.46
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "#3电容器",
+    "hezhaCurrent": 0.38,
+    "fenzhaCurrent": 2.03,
+    "chunengCurrent": 0.53
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "#1所用变",
+    "hezhaCurrent": 2.49,
+    "fenzhaCurrent": 2.83,
+    "chunengCurrent": 0.23
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "35kVI段母线避雷器",
+    "hezhaCurrent": 2.12,
+    "fenzhaCurrent": 1.92,
+    "chunengCurrent": 2.76
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "海洪3734",
+    "hezhaCurrent": 0.78,
+    "fenzhaCurrent": 4.39,
+    "chunengCurrent": 2.99
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "35kVI段母线压变插件",
+    "hezhaCurrent": 0.92,
+    "fenzhaCurrent": 0.97,
+    "chunengCurrent": 3.8
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "#1主变35kV",
+    "hezhaCurrent": 3.62,
+    "fenzhaCurrent": 0.82,
+    "chunengCurrent": 0.65
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "海变3733",
+    "hezhaCurrent": 0.33,
+    "fenzhaCurrent": 4.69,
+    "chunengCurrent": 2.09
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "35kV母分开关",
+    "hezhaCurrent": 2.78,
+    "fenzhaCurrent": 3.25,
+    "chunengCurrent": 3.18
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "35kV母分插件",
+    "hezhaCurrent": 2.16,
+    "fenzhaCurrent": 3.27,
+    "chunengCurrent": 4.58
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "备用3572开关",
+    "hezhaCurrent": 4.53,
+    "fenzhaCurrent": 0.72,
+    "chunengCurrent": 1.74
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "#2主变35kV开关",
+    "hezhaCurrent": 2.23,
+    "fenzhaCurrent": 2.25,
+    "chunengCurrent": 1.68
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "35kVII段母线避雷器",
+    "hezhaCurrent": 4.91,
+    "fenzhaCurrent": 0.08,
+    "chunengCurrent": 1.89
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "海牌3735开关",
+    "hezhaCurrent": 0.53,
+    "fenzhaCurrent": 2.24,
+    "chunengCurrent": 0.98
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "35kVII段母线压变插件",
+    "hezhaCurrent": 0.54,
+    "fenzhaCurrent": 3.89,
+    "chunengCurrent": 0.69
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "#2电容器开关",
+    "hezhaCurrent": 1.41,
+    "fenzhaCurrent": 3.37,
+    "chunengCurrent": 2.63
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "#2所用变开关",
+    "hezhaCurrent": 2.37,
+    "fenzhaCurrent": 4.25,
+    "chunengCurrent": 1.59
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "#2电抗器开关",
+    "hezhaCurrent": 4.02,
+    "fenzhaCurrent": 4.76,
+    "chunengCurrent": 2.2
+  },
+  {
+    "time": "2020-07-10T08:00:00.000Z",
+    "name": "海时3738开关",
+    "hezhaCurrent": 3.55,
+    "fenzhaCurrent": 0.55,
+    "chunengCurrent": 4.47
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "#1电容器",
+    "hezhaCurrent": 0.3,
+    "fenzhaCurrent": 1.95,
+    "chunengCurrent": 3.89
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "海凤3731",
+    "hezhaCurrent": 2.11,
+    "fenzhaCurrent": 4.5,
+    "chunengCurrent": 1.96
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "#3电容器",
+    "hezhaCurrent": 0.22,
+    "fenzhaCurrent": 4.84,
+    "chunengCurrent": 1.39
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "#1所用变",
+    "hezhaCurrent": 2.19,
+    "fenzhaCurrent": 2.15,
+    "chunengCurrent": 3.38
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "35kVI段母线避雷器",
+    "hezhaCurrent": 3.3,
+    "fenzhaCurrent": 0.74,
+    "chunengCurrent": 1.01
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "海洪3734",
+    "hezhaCurrent": 1.57,
+    "fenzhaCurrent": 2.87,
+    "chunengCurrent": 4.84
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "35kVI段母线压变插件",
+    "hezhaCurrent": 0.41,
+    "fenzhaCurrent": 2.58,
+    "chunengCurrent": 2.12
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "#1主变35kV",
+    "hezhaCurrent": 1.85,
+    "fenzhaCurrent": 0.01,
+    "chunengCurrent": 2.35
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "海变3733",
+    "hezhaCurrent": 4.46,
+    "fenzhaCurrent": 2.99,
+    "chunengCurrent": 4.86
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "35kV母分开关",
+    "hezhaCurrent": 2.41,
+    "fenzhaCurrent": 0.51,
+    "chunengCurrent": 3
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "35kV母分插件",
+    "hezhaCurrent": 3.22,
+    "fenzhaCurrent": 4.27,
+    "chunengCurrent": 1.25
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "备用3572开关",
+    "hezhaCurrent": 3.08,
+    "fenzhaCurrent": 2.24,
+    "chunengCurrent": 3.06
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "#2主变35kV开关",
+    "hezhaCurrent": 3.22,
+    "fenzhaCurrent": 2.64,
+    "chunengCurrent": 0.87
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "35kVII段母线避雷器",
+    "hezhaCurrent": 4.14,
+    "fenzhaCurrent": 3.05,
+    "chunengCurrent": 0.09
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "海牌3735开关",
+    "hezhaCurrent": 2.03,
+    "fenzhaCurrent": 1.36,
+    "chunengCurrent": 2.34
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "35kVII段母线压变插件",
+    "hezhaCurrent": 1.36,
+    "fenzhaCurrent": 0.96,
+    "chunengCurrent": 1.87
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "#2电容器开关",
+    "hezhaCurrent": 4.65,
+    "fenzhaCurrent": 0.38,
+    "chunengCurrent": 3.01
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "#2所用变开关",
+    "hezhaCurrent": 0.29,
+    "fenzhaCurrent": 1.35,
+    "chunengCurrent": 0.21
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "#2电抗器开关",
+    "hezhaCurrent": 4.48,
+    "fenzhaCurrent": 1.38,
+    "chunengCurrent": 0.32
+  },
+  {
+    "time": "2020-07-10T08:15:00.000Z",
+    "name": "海时3738开关",
+    "hezhaCurrent": 4.26,
+    "fenzhaCurrent": 3.86,
+    "chunengCurrent": 3.85
+  }
+]
